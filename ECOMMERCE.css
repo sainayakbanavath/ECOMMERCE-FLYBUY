@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navsimage {
+    height: 60px;
+    width: 150px;
+}
+
+.caradiv {
+    height: 100vh;
+}
+
+.ecomhead {
+    color: #183b56;
+}
+
+.ecompara {
+    color: #616c7c;
+}
+
+.ecomimg {
+    height: 80px;
+    width: 80px;
+}
+
+.ecomhead1 {
+    color: #1f2933;
+}
+
+.ecompara1 {
+    color: #7b8794;
+}
+
+.eprocard1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.eprocardhead1 {
+    color: white;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.eprocardpara1 {
+    color: white;
+    font-size: 18px;
+
+}
+
+.eprobutton {
+    background-color: white;
+    color: #ff9f00;
+    border-radius: 30px;
+    height: 50px;
+    width: 130px;
+    border-width: 0px;
+
+}
+
+.eprocard2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.proctlast {
+    color: #ff9f00;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.modalss {
+    font-weight: bold;
+}
+
+.ecomoff {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+}
+
+.ecomoffimg {
+    width: 100%;
+
+}
+
+.offhead1 {
+    color: #ad2167;
+    font-family: bree serif;
+    font-size: 30px;
+}
+
+.offpara1 {
+    color: white;
+    font-size: 20px;
+
+}
+
+.offspan1 {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.offpara2 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.offspan2 {
+    color: yellow;
+    font-weight: 600;
+    font-style: italic;
+
+}
+
+.offpara3 {
+    color: white;
+    font-size: 15px;
+
+
+
+}
+
+.offimg {
+
+    width: 100%;
+}
+
+.tblogimg {
+    width: 100%;
+}
+
+.tblogpara1 {
+    color: #959ead;
+
+}
+
+.trbloghead {
+    color: #183b56;
+    font-weight: 700;
+}
+
+.tbloghead1 {
+    color: #183b56;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.tblogpara2 {
+    color: #959ead;
+    font-size: 20px;
+
+}
+
+.tblogpara3 {
+    color: #ff9f00;
+    font-weight: bold;
+
+}
+
+.exploresec {
+    background-color: #f5f7fa;
+}
+
+.exhead {
+    color: #183b56;
+
+}
+
+.exhead1 {
+    color: #1f2933;
+
+}
+
+.cardeximg {
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.excardan {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.letus-container {
+    background-color: #f5f7fa;
+}
+
+.letushead {
+    color: #183b56;
+    font-weight: 700;
+}
+
+.letusbutton {
+    color: #ff9f00;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #ff9f00;
+}
+
+.ecomfoot {
+    background-color: #0d2436;
+
+}
+
+.ecomfootimg {
+    width: 40%;
+}
+
+.footicon1 {
+    background-color: #152c3e;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.iconss1 {
+    color: #5a7184;
+}
+
+.ecomfootpara {
+    color: #5a7184;
+    font-weight: 600;
+}
+
+.ecomfooth4 {
+    color: #5a7184;
+    font-weight: 700;
+    font-size: 22px;
+
+}
+
+.ecomparaa1 {
+    color: #5a7184;
+}
+
+.foic {
+    color: #5a7184;
+}
+
+.footecompara {
+    color: #5a7184;
+}
+
+.hrsfoot {
+    background-color: #5a7184;
+}
